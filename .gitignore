@@ -1,0 +1,10 @@
+.DS_Store
+.azure/
+.cache
+.terraform
+*.tfstate
+*.tfstate.*
+.ssh
+*.plan
+.vscode
+.idea
